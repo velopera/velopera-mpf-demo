@@ -1,6 +1,6 @@
 # velopera-mpf-demo: NRF transport fuzzer demo
 
-This demo shows how to compile and run the NRF transport fuzzer against the `velopera-nrf-firmware` components.
+This demo shows usage of [Mutation_Prioritization_Fuzzing](https://github.com/EU-SecOPERA/Secure-modules/tree/main/Application_Layer/Mutation_Prioritization_Fuzzing) on [velopera-nrf-firmware](https://github.com/velopera/velopera-nrf-firmware) and how to compile and run the NRF transport fuzzer against the `velopera-nrf-firmware` components.
 
 ## Build
 
